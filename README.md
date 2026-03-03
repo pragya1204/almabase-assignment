@@ -15,7 +15,7 @@ The tool allows a user to:
 ### Fictional Context (LinguaPlay)
 * **Industry:** EdTech (Children's Language Learning)
 * **Company:** **LinguaPlay**, an AI-tutor platform for kids aged 3-12.
-* **Use Case:** Because LinguaPlay handles child data (COPPA/GDPR), the security team is overwhelmed with compliance forms from school districts. This tool automates answering those forms using LinguaPlay's "Information Security Policy" and "Privacy Standards."
+* **Use Case:** Because LinguaPlay handles child data, the security team is overwhelmed with compliance forms from school districts. This tool automates answering those forms using LinguaPlay's "Information Security Policy" and "Privacy Standards."
 
 ---
 
