@@ -1,5 +1,5 @@
 fastapi[all]
-langchain 
+# langchain 
 sqlalchemy 
 hypothesis 
 pypdf2 
