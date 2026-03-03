@@ -9,7 +9,3 @@ google-genai
 groq
 pgvector
 supabase
-streamlit 
-requests 
-reportlab 
-supabase
